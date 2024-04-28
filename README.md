@@ -31,3 +31,9 @@
 <p align="left">Este repositório será utilizado para armazenar exercícios, projetos e materiais de estudo relacionados ao curso. Aqui, você encontrará uma variedade de conteúdos, todos voltados para aprimorar habilidades e conhecimentos sobre JS e Node.</p>
 
 ###
+
+<h2 align="left">Projetos</h2>
+
+###
+
+- [Corrida Mario](CorridaMario)
